@@ -2,3 +2,10 @@ header#header_section {
     background: antiquewhite;
     padding: 3rem 0;
 }
+
+.navigation {
+    background: #ffffff7a;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    display: flex;
+}
